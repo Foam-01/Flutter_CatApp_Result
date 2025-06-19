@@ -66,7 +66,7 @@ flutter pub get
 
 # 3. Run on preferred platform
 flutter run -d android   # Or ios, chrome, windows, macos, linux
-
+```
 
 
 ![Screenshot 2025-06-19 114520](https://github.com/user-attachments/assets/69de58e7-5c5b-4852-bdb4-ad7c7de0bf7c)
