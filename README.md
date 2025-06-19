@@ -1,16 +1,3 @@
-# youtube_mp3_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2025-06-19 114520](https://github.com/user-attachments/assets/69de58e7-5c5b-4852-bdb4-ad7c7de0bf7c)
+![Screenshot 2025-06-19 111738](https://github.com/user-attachments/assets/82461001-1bed-4295-b250-4ff06c57ce31)
+![Screenshot 2025-06-19 111759](https://github.com/user-attachments/assets/924966a1-d8b6-4e5d-aa09-7f1635e8fdd3)
